@@ -1,1 +1,1 @@
-# aimusicwebbie
+# ai-music-webapp
